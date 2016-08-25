@@ -1,3 +1,36 @@
+# Formation Bootstrap
+
+## Créer son environnement de dev
+
+* Installer [Node.js] (https://nodejs.org)
+* Si vous êtes sur Windows, installez [Ruby on rails] (http://rubyinstaller.org/)
+
+# Installer son environnement de dev
+
+* Depuis un CLI, cloner le repository depuis cette adresse https://github.com/WaxInteractiveCH/formationBootstrap.git
+`git clone https://github.com/WaxInteractiveCH/formationBootstrap.git && cd formationBootstrap`
+* Installer gulp `npm install -g gulp`
+* Installer les dépendances `npm install`
+* Lancer le serveur `gulp`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Bootstrap for Sass
 [![Gem Version](https://badge.fury.io/rb/bootstrap-sass.svg)](http://badge.fury.io/rb/bootstrap-sass)
 [![npm version](https://img.shields.io/npm/v/bootstrap-sass.svg?style=flat)](https://www.npmjs.com/package/bootstrap-sass)
